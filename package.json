@@ -1,0 +1,15 @@
+{
+  "name": "sitejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "edilson",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "save": "^2.9.0"
+  }
+}
